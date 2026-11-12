@@ -1,0 +1,4 @@
+steamlit
+pandas
+nltk
+scikit_learn
